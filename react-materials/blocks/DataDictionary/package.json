@@ -1,0 +1,32 @@
+{
+  "name": "jy-data-dictionary-block",
+  "version": "1.0.0",
+  "description": "数据字典",
+  "author": "jingjingyang <jingjingyang@jieyuechina.com>",
+  "files": [
+    "src/",
+    "lib/"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/easycrew/ice-devtools-demo.git"
+  },
+  "license": "MIT",
+  "keywords": [
+    "ice",
+    "react",
+    "block"
+  ],
+  "dependencies": {
+    "react": "^16.2.0",
+    "prop-types": "^15.5.8"
+  },
+  "blockConfig": {
+    "name": "data-dictionary",
+    "title": "数据字典",
+    "categories": [
+      "表格"
+    ],
+    "screenshot": ""
+  }
+}

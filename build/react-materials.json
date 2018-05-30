@@ -1,0 +1,180 @@
+{
+  "name": "react-materials",
+  "type": "react",
+  "blocks": [
+    {
+      "name": "data-dictionary",
+      "title": "数据字典",
+      "source": {
+        "type": "npm",
+        "npm": "jy-data-dictionary-block",
+        "version": "1.0.0",
+        "sourceCodeDirectory": "src",
+      },
+      "dependencies": {
+        "react": "^16.2.0",
+        "prop-types": "^15.5.8"
+      },
+      "screenshot": "https://gw.alicdn.com/tfs/TB1T_OutDtYBeNjy1XdXXXXyVXa-2458-1186.png",
+      "categories": [
+        "表格"
+      ],
+      "features": {
+        "useComponents": [
+          {
+            "basePackage": "@icedesign/container",
+            "className": "Container"
+          },
+          {
+            "basePackage": "@icedesign/label",
+            "className": "Label"
+          },
+          {
+            "basePackage": "@icedesign/base",
+            "className": "Table"
+          },
+          {
+            "basePackage": "@icedesign/base",
+            "className": "Pagination"
+          },
+          {
+            "basePackage": "@icedesign/base",
+            "className": "Button"
+          },
+          {
+            "basePackage": "@icedesign/base",
+            "className": "Icon"
+          },
+          {
+            "basePackage": "@icedesign/base",
+            "className": "Loading"
+          },
+          {
+            "basePackage": "@icedesign/base",
+            "className": "Grid"
+          },
+          {
+            "basePackage": "@icedesign/base",
+            "className": "Input"
+          },
+          {
+            "basePackage": "@icedesign/base",
+            "className": "Select"
+          },
+          {
+            "basePackage": "@icedesign/base",
+            "className": "DatePicker"
+          },
+          {
+            "basePackage": "@icedesign/base",
+            "className": "Form"
+          },
+          {
+            "basePackage": "@icedesign/base",
+            "className": "Dialog"
+          },
+          {
+            "basePackage": "@icedesign/base",
+            "className": "Field"
+          },
+          {
+            "basePackage": "@icedesign/base",
+            "className": "Balloon"
+          }
+        ]
+      },
+      "description": "数据字典",
+      "repository": "https://github.com/easycrew/ice-devtools-demo.git",
+      "publishTime": "2018-05-29T01:53:49.677Z",
+      "updateTime": "2018-05-29T01:53:53.425Z"
+    },
+    {
+      "name": "form-and-table",
+      "title": "筛选表格",
+      "source": {
+        "type": "npm",
+        "npm": "jy-form-and-table-block",
+        "version": "1.0.1",
+        "sourceCodeDirectory": "src/"
+      },
+      "dependencies": {
+        "react": "^16.2.0",
+        "prop-types": "^15.5.8"
+      },
+      "screenshot": "https://gw.alicdn.com/tfs/TB1T_OutDtYBeNjy1XdXXXXyVXa-2458-1186.png",
+      "categories": [
+        "表格"
+      ],
+      "features": {
+        "useComponents": [
+          {
+            "basePackage": "@icedesign/container",
+            "className": "Container"
+          },
+          {
+            "basePackage": "@icedesign/label",
+            "className": "Label"
+          },
+          {
+            "basePackage": "@icedesign/base",
+            "className": "Table"
+          },
+          {
+            "basePackage": "@icedesign/base",
+            "className": "Pagination"
+          },
+          {
+            "basePackage": "@icedesign/base",
+            "className": "Button"
+          },
+          {
+            "basePackage": "@icedesign/base",
+            "className": "Icon"
+          },
+          {
+            "basePackage": "@icedesign/base",
+            "className": "Loading"
+          },
+          {
+            "basePackage": "@icedesign/base",
+            "className": "Input"
+          },
+          {
+            "basePackage": "@icedesign/base",
+            "className": "Grid"
+          },
+          {
+            "basePackage": "@icedesign/base",
+            "className": "Select"
+          },
+          {
+            "basePackage": "@icedesign/base",
+            "className": "DatePicker"
+          },
+          {
+            "basePackage": "@icedesign/base",
+            "className": "Form"
+          },
+          {
+            "basePackage": "@icedesign/base",
+            "className": "Dialog"
+          },
+          {
+            "basePackage": "@icedesign/base",
+            "className": "Field"
+          },
+          {
+            "basePackage": "@icedesign/base",
+            "className": "Balloon"
+          }
+        ]
+      },
+      "description": "筛选表格",
+      "repository": "https://github.com/easycrew/ice-devtools-demo.git",
+      "publishTime": "2018-05-28T09:27:05.424Z",
+      "updateTime": "2018-05-28T09:38:19.247Z"
+    }
+  ],
+  "layouts": [],
+  "scaffolds": []
+}
